@@ -5,6 +5,9 @@
 - 🖤 Prokletá čepel
 - 💎 Srdce Království
 - 👑 Koruna
+- 🛡️ Štít Věčnosti
+- ⚡ Kladivo Bouře
+- 🗡️ Dýka Stínů
 
 Soubor: `RelikviePack.zip` (přímý odkaz: https://raw.githubusercontent.com/AdamL2014/soumrak-kralu-pack/main/RelikviePack.zip) Server ho hráčům nabídne automaticky.
 

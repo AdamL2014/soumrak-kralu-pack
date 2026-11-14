@@ -6,6 +6,6 @@
 - 💎 Srdce Království
 - 👑 Koruna
 
-Ke stažení v sekci **Releases**. Server ho hráčům nabídne automaticky.
+Soubor: `RelikviePack.zip` (přímý odkaz: https://raw.githubusercontent.com/AdamL2014/soumrak-kralu-pack/main/RelikviePack.zip) Server ho hráčům nabídne automaticky.
 
 © AdrrexStudio
